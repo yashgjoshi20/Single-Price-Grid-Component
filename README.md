@@ -2,7 +2,7 @@
 
 This is a solution to the [Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)
 
-## [📃💻 Website view 🖱🖥](https://)
+## [📃💻 Website view 🖱🖥](https://yashgjoshi20.github.io/Single-Price-Grid-Component/)
 
 ## Table of contents
 
@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](Screenshot/Screenshot.PNG)
+![](Screenshots/Screenshot-1.PNG)
 
 ### Links
 
-- Solution URL:  [Solution  URL](https://github.com/yashgjoshi20/Order-Summary-Component-Using-CSS.git)
-- Live Site URL: [GitHub Pages Live URL](https://yashgjoshi20.github.io/Order-Summary-Component-Using-CSS/)
+- Solution URL:  [Solution  URL](https://github.com/yashgjoshi20/Single-Price-Grid-Component.git)
+- Live Site URL: [GitHub Pages Live URL](https://yashgjoshi20.github.io/Single-Price-Grid-Component/)
 
 ## My process
 
